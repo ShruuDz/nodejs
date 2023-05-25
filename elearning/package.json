@@ -1,0 +1,15 @@
+{
+  "name": "elearning",
+  "version": "1.0.0",
+  "description": "an e-learning website using node",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "author": "Shruti",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "uuid": "^9.0.0"
+  }
+}
